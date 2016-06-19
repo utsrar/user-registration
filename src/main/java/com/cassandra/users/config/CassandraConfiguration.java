@@ -6,6 +6,6 @@ import org.springframework.data.cassandra.repository.config.EnableCassandraRepos
 @Configuration
 @EnableCassandraRepositories("com.cassandra.users.repository")
 public class CassandraConfiguration {
-
+//cassandra
 	
 }
